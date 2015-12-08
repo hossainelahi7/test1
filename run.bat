@@ -1,0 +1,1 @@
+java -cp bin;lib/* test1.solution
