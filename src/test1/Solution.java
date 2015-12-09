@@ -7,6 +7,8 @@
  */
 package test1;
 
+import org.testng.annotations.Test;
+
 //This is a code for the 3rd problem from advanched auto parts
 
 
@@ -78,7 +80,7 @@ class Solution {
       }
 
       
-
+      @Test
       public static void main(String[] args) {
 
               Solution s = new Solution();
