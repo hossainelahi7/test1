@@ -1,1 +1,1 @@
-java -cp bin;lib/* src/test1/solution.java
+java -cp bin;lib/*;src/test1; solution.main(abc)
